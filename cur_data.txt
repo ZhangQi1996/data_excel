@@ -1,0 +1,1 @@
+city_code time aqi pm2_5 pm10 so2 no2 co o3 pri_pollutant
